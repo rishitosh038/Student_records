@@ -83,5 +83,5 @@ The program generates a `students.json` file that stores student data in JSON fo
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 This project showcases essential Python concepts for handling structured data efficiently using dictionaries and JSON, making it ideal for entry-level roles and internships.
